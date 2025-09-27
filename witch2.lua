@@ -129,7 +129,7 @@ local imstuff = {
 			LBolt = LBolt;
 		};
 		Scripts = {
-			InputC = InputC()
+			InputC = InputC();
 			pfect = pfect();
 		}
 	}
